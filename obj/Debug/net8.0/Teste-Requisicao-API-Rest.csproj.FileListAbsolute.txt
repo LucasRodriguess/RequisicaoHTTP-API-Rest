@@ -1,0 +1,15 @@
+C:\Estudos-Desenvolvimento\Teste-Requisicao-API-Rest\bin\Debug\net8.0\Teste-Requisicao-API-Rest.exe
+C:\Estudos-Desenvolvimento\Teste-Requisicao-API-Rest\bin\Debug\net8.0\Teste-Requisicao-API-Rest.deps.json
+C:\Estudos-Desenvolvimento\Teste-Requisicao-API-Rest\bin\Debug\net8.0\Teste-Requisicao-API-Rest.runtimeconfig.json
+C:\Estudos-Desenvolvimento\Teste-Requisicao-API-Rest\bin\Debug\net8.0\Teste-Requisicao-API-Rest.dll
+C:\Estudos-Desenvolvimento\Teste-Requisicao-API-Rest\bin\Debug\net8.0\Teste-Requisicao-API-Rest.pdb
+C:\Estudos-Desenvolvimento\Teste-Requisicao-API-Rest\obj\Debug\net8.0\Teste-Requisicao-API-Rest.csproj.AssemblyReference.cache
+C:\Estudos-Desenvolvimento\Teste-Requisicao-API-Rest\obj\Debug\net8.0\Teste-Requisicao-API-Rest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos-Desenvolvimento\Teste-Requisicao-API-Rest\obj\Debug\net8.0\Teste-Requisicao-API-Rest.AssemblyInfoInputs.cache
+C:\Estudos-Desenvolvimento\Teste-Requisicao-API-Rest\obj\Debug\net8.0\Teste-Requisicao-API-Rest.AssemblyInfo.cs
+C:\Estudos-Desenvolvimento\Teste-Requisicao-API-Rest\obj\Debug\net8.0\Teste-Requisicao-API-Rest.csproj.CoreCompileInputs.cache
+C:\Estudos-Desenvolvimento\Teste-Requisicao-API-Rest\obj\Debug\net8.0\Teste-Requisicao-API-Rest.dll
+C:\Estudos-Desenvolvimento\Teste-Requisicao-API-Rest\obj\Debug\net8.0\refint\Teste-Requisicao-API-Rest.dll
+C:\Estudos-Desenvolvimento\Teste-Requisicao-API-Rest\obj\Debug\net8.0\Teste-Requisicao-API-Rest.pdb
+C:\Estudos-Desenvolvimento\Teste-Requisicao-API-Rest\obj\Debug\net8.0\Teste-Requisicao-API-Rest.genruntimeconfig.cache
+C:\Estudos-Desenvolvimento\Teste-Requisicao-API-Rest\obj\Debug\net8.0\ref\Teste-Requisicao-API-Rest.dll
